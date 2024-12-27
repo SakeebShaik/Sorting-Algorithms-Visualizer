@@ -46,4 +46,4 @@
 
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are welcome!
 
-**-Syed Mahammad Jasim**
+**-Shaik Mohammad Sakeeb**
